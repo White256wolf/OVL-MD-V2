@@ -224,11 +224,11 @@ jobs:
   <summary>🔐 Exemple de fichier .env</summary>
 
 ```env
-PREFIXE=.
-NOM_OWNER=Ainz
-NUMERO_OWNER=226xxxxxxxx
+PREFIXE=~
+NOM_OWNER=ⷶ ᭄ͫ𝑾𝒉𝒊𝒕𝒆𝑾𝒐𝒍𝒇༒
+NUMERO_OWNER=256754367260
 MODE=public
-SESSION_ID=
+SESSION_ID=Ovl-MD_EZXav1G7_SESSION-ID
 STICKER_PACK_NAME=ᴏᴠʟ-ᴍᴅ-ᴠ𝟸
 STICKER_AUTHOR_NAME=ᴀɪɴᴢ🔅✨
 NOM_BOT=🤖 OVL-MD BOT V2
